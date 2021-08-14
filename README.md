@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently pursuing B.Tech. in CSE from IIIT Una.
-- 🌱 I’m currently learning and exploring Cyber Security.
+- 🌱 I’m currently learning Web Development.
 <!-- 💬 Ask me about ...
 
 Here are some ideas to get you started:
