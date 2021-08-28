@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.codechef.com/users/pvanshika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pvanshika" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/usvrind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="usvrind" height="30" width="40" /></a>
   
-<a href="https://leetcode.com/uv_ssh/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="usvrind" height="30" width="80" /></a>
+<a href="https://leetcode.com/uv_ssh/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="uv_ssh" height="30" width="100" /></a>
+<a href="https://www.hackerrank.com/uv_ssh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="uv_ssh" height="30" width="100" /></a>
+ <a href="https://twitter.com/0xUvaish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xUvaish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
