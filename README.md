@@ -38,24 +38,24 @@ Here are some ideas to get you started:
 <!-- - 📄 Know about my experiences [Vanshika_Pandey_resume](https://drive.google.com/file/d/1707BnxCm6GRygeeyNIT3XMrNpAf7s8db/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/usvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usvr" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/pvanshika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pvanshika" height="30" width="40" /></a> -->
-<a href="https://auth.geeksforgeeks.org/user/usvrind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="usvrind" height="30" width="40" /></a>
-  
-<a href="https://leetcode.com/uv_ssh/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="uv_ssh" height="30" width="100" /></a>
-<a href="https://www.hackerrank.com/uv_ssh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="uv_ssh" height="30" width="100" /></a>
+
+
+
   
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<a href="https://twitter.com/0xUvaish">
-  <img align="center" alt="0xUvaish" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/usvr/">
-  <img align="center" alt="usvr" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</p>
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/usvr" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="usvr"/></a> 
+<!--   <a href="https://vidyabhandary.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="vidyabhandary" /></a>  -->
+  <a href="https://www.hackerrank.com/uv_ssh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="uv_ssh" height="30" width="100" /></a>
+  <a href="https://twitter.com/0xUvaish" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+    <a href="https://auth.geeksforgeeks.org/user/usvrind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="usvrind" height="30" width="40" /></a>
+    
+<a href="https://leetcode.com/uv_ssh/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="uv_ssh" height="30" width="100" /></a>
+</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
