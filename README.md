@@ -38,14 +38,6 @@ Here are some ideas to get you started:
 <!-- - 📄 Know about my experiences [Vanshika_Pandey_resume](https://drive.google.com/file/d/1707BnxCm6GRygeeyNIT3XMrNpAf7s8db/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
-<!-- <a href="https://www.codechef.com/users/pvanshika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pvanshika" height="30" width="40" /></a> -->
-
-
-
-  
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
 
 <p align="center">
   <a href="https://in.linkedin.com/in/usvr" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="usvr"/></a> 
@@ -55,6 +47,9 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/uv_ssh/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="uv_ssh"/></a>
   <a href="https://auth.geeksforgeeks.org/user/usvrind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="usvrind" height="30" width="40" /></a>
 </p> 
+<p align="center">
+  <a href="mailto:usvr.ind@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="usve"/></a>
+  </p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
