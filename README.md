@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xUvaish](https://github.com/0xUvaish)
 
-- 💬 Ask me about **Front End, Back End, C/C++, Python, Open-Source**
+- 💬 Ask me about **Front End, Back End, C/C++, AWS, Python, Open-Source**
 
 <!-- - 📫 How to reach me **usvr.ind@gmail.com** -->
 
