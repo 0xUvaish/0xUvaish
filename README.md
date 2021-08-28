@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Uvaish Siddiqui</h1>
-<h3 align="center">Open-Source enthusiast and passionate programmer</h3>
+<h3 align="center">Open-Source Enthusiast and Passionate Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20views&color=0e75b6&style=flat" alt="0xUvaish" /> </p>
 
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/usvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usvr" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/pvanshika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pvanshika" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/usvrind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="usvrind" height="30" width="40" /></a>
+  
+<a href="https://leetcode.com/uv_ssh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="usvrind" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
