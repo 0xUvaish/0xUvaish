@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://in.linkedin.com/in/usvr" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="usvr"/></a> 
-<!--   <a href="https://vidyabhandary.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="vidyabhandary" /></a>  -->
   <a href="https://www.hackerrank.com/uv_ssh" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="uv_ssh"/></a>
   <a href="https://twitter.com/0xUvaish" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://leetcode.com/uv_ssh/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="uv_ssh"/></a>
@@ -50,7 +49,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">How to reache me:</h3>
 <p align="center">
-  <a href="mailto:usvr.ind@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="usve"/></a>
+  <a href="mailto:usvr.ind@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="usvr"/></a>   
+  <a href="https://telegram.me/uvaissh" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="uvaissh"/></a>
+  <a href="https://discord.gg/Z4PPN4udYU" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="uvaissh"/></a>
+  
   </p> 
 
 <h3 align="left">Languages and Tools:</h3>
