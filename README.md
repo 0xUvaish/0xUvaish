@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20views&color=0e75b6&style=flat" alt="0xUvaish" /> </p>
 
-- 🔭 I’m currently working on **Web Development and Competitive Programming**
+- 🔭 I’m currently working on **Web Development and Competitive Programming** and contributing to **Open Source at GWOC '21**
 
 - 🌱 I’m currently learning **Web Development, Penetration Testing, Data Structures and Algorithms**
 
