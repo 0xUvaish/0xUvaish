@@ -46,6 +46,16 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/uv_ssh/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="uv_ssh" height="30" width="100" /></a>
 <a href="https://www.hackerrank.com/uv_ssh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="uv_ssh" height="30" width="100" /></a>
  <a href="https://twitter.com/0xUvaish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xUvaish" height="30" width="40" /></a>
+  
+<!-- <a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a> -->
+<a href="https://twitter.com/0xUvaish">
+  <img align="left" alt="0xUvaish" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/usvr/">
+  <img align="left" alt="usvr" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
