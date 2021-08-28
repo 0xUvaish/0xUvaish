@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Uvaish Siddiqui</h1>
+<h1 align="center">Hi 👋, I'm Mohd Uvaish Siddiqui</h1>
 <h3 align="center">Open-Source Enthusiast and Passionate Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20views&color=0e75b6&style=flat" alt="0xUvaish" /> </p>
