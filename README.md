@@ -1,22 +1,3 @@
-<!-- ### Hi there 👋
-- 🔭 I’m currently pursuing B.Tech. in CSE from IIIT Una.
-- 🌱 I’m currently learning Web Development and working on some web projects. -->
-<!-- 💬 Ask me about ...
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 
 <h1 align="center">Hi 👋, I'm Mohd Uvaish Siddiqui</h1>
 <h3 align="center">Open-Source Enthusiast and Passionate Programmer</h3>
@@ -32,8 +13,6 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://github.com/0xUvaish](https://github.com/0xUvaish)
 
 - 💬 Ask me about **Front End, Back End, C/C++, AWS, Python, Open-Source**
-
-<!-- - 📫 How to reach me **usvr.ind@gmail.com** -->
 
 - 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/1EBLwUmdFFD66LTGDQf3ztftdo-7DHLi8/view?usp=sharing)
 
@@ -70,8 +49,6 @@ Here are some ideas to get you started:
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <!--   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  -->
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xUvaish&show_icons=true&locale=en&layout=compact" alt="0xUvaish" /></p>
 
