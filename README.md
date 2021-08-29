@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <!-- - 📫 How to reach me **usvr.ind@gmail.com** -->
 
-<!-- - 📄 Know about my experiences [Vanshika_Pandey_resume](https://drive.google.com/file/d/1707BnxCm6GRygeeyNIT3XMrNpAf7s8db/view?usp=sharing) -->
+- 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/1DirE2H6m93Rtbz1VahAKm_PzNNW9KxhF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
