@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web Development and Competitive Programming** and contributing to **Open Source at GWOC '21**
 
-- 🌱 I’m currently learning **Web Development, Penetration Testing, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Full Stack Development, Penetration Testing, Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
