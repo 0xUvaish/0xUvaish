@@ -62,5 +62,5 @@
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xUvaish&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true)
-|<img src="https://github-readme-stats.vercel.app/api?username=0xUvaish&&show_icons=true&&hide_border=false&&theme=chartreuse-dark&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xUvaish&&theme=gotham&&hide_border=false&&show_icons=true"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=0xUvaish&&show_icons=true&&hide_border=false&&theme=chartreuse-dark&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xUvaish&&theme=radical&&hide_border=false&&show_icons=true"/>|
 |---|---|
