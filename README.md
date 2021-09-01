@@ -56,7 +56,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
- ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux%color=Black)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux%logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   
