@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Front End, Back End, C/C++, AWS, Python, Open-Source**
 
-- 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/1EBLwUmdFFD66LTGDQf3ztftdo-7DHLi8/view?usp=sharing)
+- 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/1WPQ5syuo6PM-2uzaNvdf3MC9cHCXZgkw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
