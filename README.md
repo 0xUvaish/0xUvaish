@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Uvaish Siddiqui</h1>
 <h3 align="center">Open-Source Enthusiast and Passionate Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20views&color=BlueViolet&style=flat" alt="0xUvaish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20views&color=0e75b6&style=flat" alt="0xUvaish" /> </p>
 
 - 🔭 I’m currently working on **Web Development and Competitive Programming** and contributing to **Open Source at GWOC '21**
 
