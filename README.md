@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Mohd Uvaish Siddiqui</h1>
-<h3 align="center">Open-Source Enthusiast and Passionate Programmer</h3>
+<h1 align="center">Hi 👋, I'm Uvaish</h1>
+<h3 align="center">Open Source Enthusiast and Passionate Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20Visits&color=blueviolet&style=plastic" alt="0xUvaish" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xUvaish](https://github.com/0xUvaish)
 
-- 💬 Ask me about **Front End, Back End, C/C++, AWS, Python, Open-Source**
+- 💬 Ask me about **Front End, Back End, C/C++, AWS, Python, Open Source**
 
 - 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/16-OF0fyVIR57mk1LW46-IyCx8lyalHvv/view?usp=sharing)
 
