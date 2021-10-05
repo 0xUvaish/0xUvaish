@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/159XZUsLDuG_qUq6q5XzI8krxLZj9284a/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [See Repos](https://github.com/0xUvaish)
+- 👨‍💻 All of my projects are available at [See Repos](https://github.com/0xUvaish?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 
