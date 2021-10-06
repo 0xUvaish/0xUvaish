@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Uvaish <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Uvaish <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 <h3 align="center">Open Source Enthusiast and Passionate Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20Visits&color=blueviolet&style=plastic" alt="0xUvaish" /> </p>
