@@ -75,6 +75,6 @@
 <!-- ![activity graph](https://activity-graph.herokuapp.com/graph?username=0xUvaish&bg_color=000000&color=ccffe9&line=00ff59&point=ff8585&area=true&hide_border=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xUvaish&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true)
-|<img src="https://github-readme-stats.vercel.app/api?username=0xUvaish&&show_icons=true&&hide_border=false&&theme=blue-green&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xUvaish&&theme=chartreuse-dark&&hide_border=false&&show_icons=true"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=0xUvaish&&show_icons=true&&hide_border=false&&theme=blue-green&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xUvaish&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
 |---|---|
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xUvaish&&theme=chartreuse-dark&&hide_border=false&&show_icons=true"/>
