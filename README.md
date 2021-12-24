@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20Visits&color=blueviolet&style=plastic" alt="0xUvaish" /> </p>
 
-- 🔭 I’m currently working on **Web Development and Competitive Programming** and contributing to **Open Source at GWOC '21**
+- 🔭 I’m currently working on **Web Development and Competitive Programming** and contributed to **Open Source at GWOC '21**
 
 - 🌱 I’m currently learning **Full Stack Development, Penetration Testing, Data Structures and Algorithms**
 
