@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Front End, Back End, C/C++, AWS, Python, Open Source**
+- 💬 Ask me about **Front End, C/C++, Ethical Hacking, Open Source**
 
 <!-- - 📙 Check out my portfolio [Visit Site](https://0xUvaish.github.io/)
 
