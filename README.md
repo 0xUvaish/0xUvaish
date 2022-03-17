@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **Full Stack Development, Ethical Hacking, DSA** and have contributed to **Open Source at GWOC '21** in the past.
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+<!-- - 👯 I’m looking to collaborate on **Web Development Projects** -->
 
 - 💬 Ask me about **C/C++, Front-End, EH, Open Source**
 
