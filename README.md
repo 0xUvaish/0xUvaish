@@ -19,10 +19,10 @@
 <h3 align="left">Have a look:</h3>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/usvr" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="usvr"/></a> 
-   <a href="https://www.hackerrank.com/uv_ssh" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="uv_ssh"/></a>
 <a href="https://leetcode.com/uv_ssh/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="uv_ssh"/></a>
-<!--   <a href="https://www.codechef.com/users/uv_ssh" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="uv_ssh"/></a> -->
+  <a href="https://www.codechef.com/users/uvaishsh" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="uvaishsh"/></a>
+     <a href="https://www.hackerrank.com/uv_ssh" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="uv_ssh"/></a>
+   <a href="https://in.linkedin.com/in/usvr" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="usvr"/></a> 
  <a href="https://auth.geeksforgeeks.org/user/usvrind" target="blank"><img src="https://camo.githubusercontent.com/92b0b84f04015458aac3ec79742b1350fe26a4e372af0b707085b1fd341d3bf5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4765656b73666f724765656b732d3046394435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4765656b73666f724765656b73266c6f676f436f6c6f723d7768697465" alt="usvrind"/></a>  
   <a href="https://twitter.com/0xUvaish" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p> 
