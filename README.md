@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20Visits&color=blueviolet&style=plastic" alt="0xUvaish" /> </p>
 
-- 🔭 I’m currently learning **Full Stack Development, Ethical Hacking, DSA** and have contributed to **Open Source at GWOC '21** in the past.
+- 🔭 I’m currently learning **Full Stack Development, DSA** and have contributed to **Open Source at GWOC '21** in the past.
 
 <!-- - 👯 I’m looking to collaborate on **Web Development Projects** -->
 
-- 💬 Ask me about **C/C++, Front-End, EH, Open Source**
+- 💬 Ask me about **C/C++, Front-End, Ethical Hacking, Open Source**
 
 <!-- - 📙 Check out my portfolio [Visit Site](https://0xUvaish.github.io/)
 
