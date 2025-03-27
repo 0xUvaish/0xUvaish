@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Uvaish <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
-<h3 align="center">Passionate Programmer and Open Source Enthusiast</h3>
+<h3 align="center">Passionate Programmer and Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xUvaish&label=Profile%20Visits&color=blueviolet&style=plastic" alt="0xUvaish" /> </p>
 
-- 🔭 I’m currently learning **Full Stack Development, DSA** and have contributed to **Open Source at GWOC '21** in the past.
+- 🔭 I’m currently working as **Research Engineer - Scientist** at **Centre for Development of Telematics**.
 
 <!-- - 👯 I’m looking to collaborate on **Web Development Projects** -->
 
-- 💬 Ask me about **C/C++, Front-End, Ethical Hacking, Open Source**
+- 💬 Ask me about **C/C++, DSA, Ethical Hacking, Open Source**
 
 <!-- - 📙 Check out my portfolio [Visit Site](https://0xUvaish.github.io/)
 
